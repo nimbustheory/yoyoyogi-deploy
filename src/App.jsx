@@ -258,7 +258,7 @@ function SalesWrapper({children}){return(
         </div>
       </div>)}
     </div>
-    <p style={{fontSize:10,fontWeight:600,textTransform:"uppercase",letterSpacing:"0.12em",color:T.textFaint,marginTop:"auto",paddingTop:32}}>Built by Nimbus Labs</p>
+    <p style={{fontSize:10,fontWeight:600,textTransform:"uppercase",letterSpacing:"0.12em",color:T.textFaint,marginTop:"auto",paddingTop:32}}>Built by LIMI - LumiClass.app</p>
   </div>
 
   {/* CENTER — MOBILE APP */}
